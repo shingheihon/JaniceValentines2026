@@ -60,11 +60,12 @@ function App() {
     "IMG_3284.jpg": "Anniversary with baby",
     "IMG_3856.jpg": "After sex with baby",
     "IMG_5698.jpg": "Tube with baby",
-    "IMG_5959.jpg": "Tiktok dancing with my baby",
+    "IMG_5959.JPG": "Tiktok dancing with my baby",
     "IMG_7319.jpg": "Christmas party with baby",
     "IMG_7508.jpg": "KBBQ with baby",
     "IMG_7574.jpg": "Baking with baby",
     "IMG_9406.jpg": "Park with baby",
+    "IMG_6243.jpg": "Malaysian food with baby",
     "c1803ec8-b5e5-4955-972e-a02c9e97e54d.JPG": "Studying with baby",
   };
 
@@ -85,11 +86,12 @@ function App() {
     "IMG_3284.jpg": "We went to Early's Court to have a really nice meal at a michelin restaurant. The christmas tree was beautiful and atmosphere was amazing. Then we went to St James Bar to wrap our anniversary. Where it all started :) 27/12/2025",
     "IMG_3856.jpg": "All the kissing, cuddling, and touching. We fuck everyday, without fail. 06/11/2025",
     "IMG_5698.jpg": "Countless of selfies on the tube with my baby, my baby keeps touching my dick on the ride, such a naughty girl ;)",
-    "IMG_5959.jpg": "Tried learning Love Scenario dance together, recorded a few videos which I hold so dearly to my heart. It was so fun, and seeing my baby roll on the floor dying of laughter is something I can't ever get tired of. 03/08/2025",
+    "IMG_5959.JPG": "Tried learning Love Scenario dance together, recorded a few videos which I hold so dearly to my heart. It was so fun, and seeing my baby roll on the floor dying of laughter is something I can't ever get tired of. 03/08/2025",
     "IMG_7319.jpg": "In momento we had planned and setup the christmas party. Setting up the table, bringing drinks down, and playing party games together with my baby ;) 20/12/2025",
     "IMG_7508.jpg": "Also on boxing day, the KBBQ service was so cool, they helped us cut up the meat and vegetables, and even cooked for us if we requested to! We took lots of cute pictures and had an amazing boxing day dinner :) I remember her being sleepy on the lizzy line, and slept on my shoulder. So cute. 24/12/2025",
     "IMG_7574.jpg": "It was christmas day. We had such a sweet time being together at home, watching our favourite cooking show, buying KFC and Pizza to have a large feast! And most importantly, my amazing creation, the best cupcake design ever. I surprised my baby with cupcakes we could bake together. We ended up laughing, recording, and having a blast baking together. To more baking in the future :) 25/12/2025",
     "IMG_9406.jpg": "We went on a date to Kensington Gardens, and caught this cute pic of my baby staring at the swan. So peaceful. So cute. There were tones of pigeons to the side, and seeing her scared face running to me, was the best thing ever. 12/04/2025",
+    "IMG_6243.jpg": "My baby brought me to an such a yum malaysian restaurant, it was so gooddddd. There was even a buffet there and I got to eat some off of my baby :) I remember waking up quite early for it as well, and we managed to catch the morning buffet breakfast! So yum, and sweet, all with my baby. 10/08/2025",
     "c1803ec8-b5e5-4955-972e-a02c9e97e54d.JPG": "Studying with baby, my hardworking baby and I went to the cafe downstairs of Elephant and Castle, and she was studying hard for her CFA. I had some courses I wanted to finish as well, the AWS Solutions Architect course. Finished my test with a 78% :) The drinks were so amazing as well, and a very calming and amazing environment. To more studying together :) 12/07/2025",
   };
 
