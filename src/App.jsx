@@ -150,7 +150,7 @@ function App() {
           Happy Valentines Day my love. I hope you enjoy this little something I made for you. Countless of memories together, and marking 1 year of knowing you. I can't wait for more to come. I've collected some of my favourite memories together, and I hope you enjoy looking through our goofy times together.
         </p>
         <p className="quintessential-regular letter-body">
-          January 26th, it all started at St James bar, and all the memories we've had together has blossomed into something much more. Caputuring all the sweet moments we've had together in a little website for you.
+          December 27th, it all started at St James bar, and all the memories we've had together has blossomed into something much more. Capturing all the sweet moments we've had together in a little website for you.
         </p>
         <p className="quintessential-regular letter-body">
           I know long distance can be tough, but we're going it through it together :) As long as I'm with you, we can go through anything.
